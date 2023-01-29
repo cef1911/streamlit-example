@@ -5,7 +5,7 @@ import pandas as pd
 import streamlit as st
 from PIL import Image
 
-image = Image.open('memories.png')
+image = Image.open('sunrise.jpg')
 
 st.image(image, caption='Sunrise by the mountains')
 
